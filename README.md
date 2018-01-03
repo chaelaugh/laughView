@@ -1,1 +1,1 @@
-# laughView
+# laughView Chae cho's first component
