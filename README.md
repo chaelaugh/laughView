@@ -1,6 +1,6 @@
-# laughView Chae cho's first component
+# laughView Chae cho's first component (React)
 
-###### CardLayout一个具有展开收起功能的卡片式layout
+###### CardLayout一个具有展开收起功能的卡片式layout 
 
 ###### 安装 npm install laughview
 
