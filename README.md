@@ -1,10 +1,12 @@
 # laughView Chae cho's first component
 
-## CardLayout一个具有展开收起功能的卡片式layout
+###### CardLayout一个具有展开收起功能的卡片式layout
 
-## 安装 npm install laughview
+###### 安装 npm install laughview
 
-## 引用 import { CardLayout } from 'laughview'
+###### 引用 import { CardLayout } from 'laughview'
+
+###### 图中table为antd下的table，项目中没有
 
 ![mode="pure",图中table为antd下的table，项目中没有](http://upload.ouliu.net/i/20180104173025zb3sx.jpeg)
 
